@@ -1,3 +1,4 @@
+# inceptez mar 08
 create database stgdb;
 CREATE TABLE stgdb.stg_accounts (
     AccountID VARCHAR(50),
